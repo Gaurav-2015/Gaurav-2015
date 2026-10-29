@@ -27,4 +27,7 @@ To stay ahead in the HFT space, I am actively expanding my knowledge into the ex
 ### 📫 Let's Connect
 I am always open to collaborating on high-performance systems, algorithmic trading projects, or discussing C++ internals. 
 
-[https://www.linkedin.com/in/gaurav-kd-05922b383/] | [https://leetcode.com/u/Gaurav_kd/] | [https://codeforces.com/profile/gauravkd2015] | [Gauravkd2015@gmail.com]
+- **LinkedIn : [https://www.linkedin.com/in/gaurav-kd-05922b383/]**
+- **LeetCode** : [https://leetcode.com/u/Gaurav_kd/]
+- CodeFrces : [https://codeforces.com/profile/gauravkd2015]
+- Email : [Gauravkd2015@gmail.com]
