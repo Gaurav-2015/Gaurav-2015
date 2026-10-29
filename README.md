@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav 👋
 
-I am a B.Tech Computer Science student specializing in Artificial Intelligence (Class of 2028), driven by a passion for **ultra-low-latency engineering, systems architecture, and Quantitative Finance**. My primary focus is building high-performance, real-time trading systems and optimizing algorithmic efficiency down to the nanosecond. 
+A Computer Science undergrad specializing in Artificial Intelligence (Class of 2028), driven by a passion for **ultra-low-latency engineering, systems architecture, and Quantitative Finance**. My primary focus is building high-performance, real-time trading systems and optimizing algorithmic efficiency down to the nanosecond. 
 
 Whether it's optimizing time/space complexity in competitive programming or engineering core trading infrastructure, I thrive on squeezing maximum performance out of hardware and software.
 
